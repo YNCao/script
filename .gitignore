@@ -1,0 +1,30 @@
+# Jupyter notebook specific
+*.ipynb_checkpoints
+**/.ipynb_checkpoints
+
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+
+# Conda specific
+.condarc
+conda-meta
+
+# IDE specific
+.idea/*
+.vscode/*
+
+# System files
+.DS_Store
+Thumbs.db
+
+
+*.ipynb
+*.pyc
+*.png
+*.jpg
+*.tar
+*.zip
+*.tgz
+
